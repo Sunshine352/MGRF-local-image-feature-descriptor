@@ -1,6 +1,8 @@
 # MGRF local image feature descriptor
 
-MGRF descriptor is built by Visual Studio 2015 and depended on OPENCV 3.1.0
+## MGRF-local-image-feature-descriptor is open source with a public repository on GitHub. It includes the LMGRF, OMGRF descriptors that are published in [1]. Through cascading LMGRF and OMGRF descriptors, we can obtain the final MGRF descriptor[1].
+
+L/OMGRF descriptor is built by Visual Studio 2015 and depended on OPENCV 3.1.0
 
 You can download the all codes, and respectively create LMGRF and OMGRF Projects based on VS2015.
 
@@ -26,5 +28,5 @@ Specifically, img1.pgm is the source image, img1.hesaff.xxx is the descriptor fi
 
 ## If this code is helpful to you, please cite the following paper:
 
-    Z. Sun, F. Zhou and Q. Liao, "A robust feature descriptor based on multiple gradient-related features," 2017 IEEE International   
+    [1] Z. Sun, F. Zhou and Q. Liao, "A robust feature descriptor based on multiple gradient-related features," 2017 IEEE International   
     Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, LA, 2017, pp. 1408-1412.
