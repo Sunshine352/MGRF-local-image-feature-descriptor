@@ -24,7 +24,7 @@ Specifically, img1.pgm is the source image, img1.hesaff.xxx is the descriptor fi
     
 ## The meaning of other parameters are shown in the code detailly
 
-## If this code is helpful to you, please cite the following paper
+## If this code is helpful to you, please cite the following paper:
 
     Z. Sun, F. Zhou and Q. Liao, "A robust feature descriptor based on multiple gradient-related features," 2017 IEEE International   
     Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, LA, 2017, pp. 1408-1412.
