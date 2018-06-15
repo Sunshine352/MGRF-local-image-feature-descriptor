@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	char *feat_file = 0;
 	char *out_file= 0;
 	int nOrder = 6,  nMultiRegion = 4;
-	int m_Dim = 0, m_Dim1 = 0, m_Dim2 = 0, m_Dim3 = 0, m_Dim4 = 0;
+	int m_Dim = 0, m_Dim1 = 0, m_Dim2 = 0, m_Dim3 = 0;
 	int nSampling = 8, quan_level = 4;
 
 	int counter = 1;
