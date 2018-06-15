@@ -1,5 +1,5 @@
 /*
-An implementation of LMGRF descriptor
+An implementation of OMGRF descriptor
 
 For more information, refer to:
 
