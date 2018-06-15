@@ -1,6 +1,6 @@
 # MGRF local image feature descriptor
 
-## MGRF-local-image-feature-descriptor is open source with a public repository on GitHub. It includes the LMGRF, OMGRF descriptors that are published in [1]. Through cascading LMGRF and OMGRF descriptors, we can obtain the final MGRF descriptor[1].
+MGRF-local-image-feature-descriptor is open source with a public repository on GitHub. It includes the LMGRF, OMGRF descriptors that are published in [1]. Through cascading LMGRF and OMGRF descriptors, we can obtain the final MGRF descriptor[1].
 
 L/OMGRF descriptor is built by Visual Studio 2015 and depended on OPENCV 3.1.0
 
